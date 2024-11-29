@@ -1,4 +1,5 @@
 # Project Euler - Problem 3
+# Link: https://projecteuler.net/problem=3
 # Author: Josh Hess
 
 from math import sqrt

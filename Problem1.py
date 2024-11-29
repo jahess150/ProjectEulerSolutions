@@ -1,4 +1,5 @@
 # Project Euler - Problem 1
+# Link: https://projecteuler.net/problem=1
 # Author: Josh Hess
 
 # Holds sum of all divisible naturals
